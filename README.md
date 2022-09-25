@@ -19,8 +19,12 @@ Go to where they should be added with the mouse and press o/a
 
 This example shows some flying boids (blue triangle) which are hunted by the predators (red triangle) and avoid the obstacles (red circle).
 
-![My Image](./example/1.png)
-![My Image](./example/2.png)
+![My Image](./examples/1.png)
+![My Image](./examples/2.png)
+
+## Report
+
+A report for this university project can be found [here](./Boids_report.pdf).
 
 ***
 
